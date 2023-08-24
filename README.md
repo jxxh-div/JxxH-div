@@ -14,7 +14,7 @@
  <h4 align="center">🔎 PortFolio</h4>
  
 <div>
-    <a href="[https://www.notion.so/jamkim/JaeHwan-Kim-1ea77cba02054688854dc9b7c177a167?pvs=4](https://jamkim.notion.site/JaeHwan-Kim-1ea77cba02054688854dc9b7c177a167?pvs=4)">
+    <a href="https://www.notion.so/jamkim/JaeHwan-Kim-1ea77cba02054688854dc9b7c177a167?pvs=4](https://jamkim.notion.site/JaeHwan-Kim-1ea77cba02054688854dc9b7c177a167?pvs=4)">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   </div>
