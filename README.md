@@ -20,7 +20,7 @@
   </div>
 <div>
     <a href="http://hwajae.kr">
-        <img src="https://img.shields.io/badge/velog-61DAFB?style=for-the-badge"> 
+              <img src="https://img.shields.io/badge/web-000000?style=for-the-badge&logo=apple&logoColor=white"> 
     </a>
 </div>
 
@@ -28,7 +28,7 @@
  
 <div>
     <a href="https://velog.io/@jaehwan">
-        <img src="https://img.shields.io/badge/web-000000?style=for-the-badge&logo=apple&logoColor=white"> 
+        <img src="https://img.shields.io/badge/velog-61DAFB?style=for-the-badge"> 
     </a>
 </div>
 
