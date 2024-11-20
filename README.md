@@ -3,10 +3,6 @@
 <br>
   
   <strong>안녕하세요! 김재환 입니다. 👋</strong>
-      
-  [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jxxh204)
-
-<br>
 
  <h4 align="center">🔎 PortFolio</h4>
  
