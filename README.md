@@ -4,21 +4,23 @@
   
   <strong>안녕하세요! 김재환 입니다. 👋</strong>
 
- <h4 align="center">🔎 PortFolio</h4>
+ <h4 align="center">🔎 Info</h4>
+ 
+
  
 <div>
-    <a href="https://www.notion.so/jamkim/JaeHwan-Kim-1ea77cba02054688854dc9b7c177a167?pvs=4](https://jamkim.notion.site/JaeHwan-Kim-1ea77cba02054688854dc9b7c177a167?pvs=4)">
+      <a href="https://www.notion.so/jamkim/JaeHwan-Kim-1ea77cba02054688854dc9b7c177a167?pvs=4](https://jamkim.notion.site/JaeHwan-Kim-1ea77cba02054688854dc9b7c177a167?pvs=4)">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  </div>
-
- <h4 align="center">Blog</h4>
- 
-<div>
     <a href="https://velog.io/@jaehwan">
         <img src="https://img.shields.io/badge/velog-61DAFB?style=for-the-badge"> 
     </a>
+      <a href="mailto:ahhancom@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+  
 </div>
+
 
 <h4 align="center">🛠 Tech Stack 🛠️</h4>
   
@@ -33,11 +35,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxh204&layout=compact)
 
-<div>
-    <a href="mailto:ahhancom@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div
+
 
 </div>
 
